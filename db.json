@@ -1,0 +1,164 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Futsal"
+    },
+    {
+      "id": 2,
+      "nama": "Bola"
+    },
+    {
+      "id": 3,
+      "nama": "Casual"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "F-01",
+      "nama": "Sepatu Futsal Ortuseight Jogosala",
+      "harga": 365000,
+      "is_ready": true,
+      "gambar": "ortus-jogosala.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Futsal"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "F-02",
+      "nama": "Sepatu Futsal Nike Vaporfly",
+      "harga": 985000,
+      "is_ready": true,
+      "gambar": "nike-vapor.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Futsal"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "F-03",
+      "nama": "Sepatu Futsal Specs Baricada",
+      "harga": 799000,
+      "is_ready": true,
+      "gambar": "specs-baricada.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Futsal"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "F-04",
+      "nama": "Sepatu Futsal Ortuseight Libero",
+      "harga": 339000,
+      "is_ready": true,
+      "gambar": "ortus-libero.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Futsal"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "F-05",
+      "nama": "Sepatu Futsal Ortuseight Nakula",
+      "harga": 425000,
+      "is_ready": true,
+      "gambar": "ortus-nakula.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Futsal"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "F-06",
+      "nama": "Sepatu Futsal Nike Superfly",
+      "harga": 1099000,
+      "is_ready": true,
+      "gambar": "nike-superfly.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Futsal"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "B-01",
+      "nama": "Sepatu Bola Specs Dominio",
+      "harga": 399000,
+      "is_ready": true,
+      "gambar": "specs-dominio.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Bola"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "B-02",
+      "nama": "Sepatu Bola Adidas X Speedflow",
+      "harga": 639000,
+      "is_ready": true,
+      "gambar": "adidas-speedflow.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Bola"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "B-03",
+      "nama": "Sepatu Bola Nike Phantom",
+      "harga": 1984000,
+      "is_ready": true,
+      "gambar": "nike-phantom.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Bola"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "C-01",
+      "nama": "Sepatu Casual Piero Arcwave",
+      "harga": 375000,
+      "is_ready": true,
+      "gambar": "piero-arcwave.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Casual"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "C-02",
+      "nama": "Sepatu Casual League Gelay",
+      "harga": 849000,
+      "is_ready": true,
+      "gambar": "league-gelay.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Casual"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "C-03",
+      "nama": "Sepatu Casual Piero Capt",
+      "harga": 225000,
+      "is_ready": true,
+      "gambar": "piero-capt.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Casual"
+      }
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}
