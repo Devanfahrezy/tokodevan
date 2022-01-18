@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tokodevan/static/css/main.057a7353.css",
+    "main.js": "/tokodevan/static/js/main.0be28dc9.js",
+    "index.html": "/tokodevan/index.html",
+    "main.057a7353.css.map": "/tokodevan/static/css/main.057a7353.css.map",
+    "main.0be28dc9.js.map": "/tokodevan/static/js/main.0be28dc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057a7353.css",
+    "static/js/main.0be28dc9.js"
+  ]
+}
